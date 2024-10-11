@@ -1,0 +1,12 @@
+# ninja log v5
+3	683	1714986219654035778	CMakeFiles/untitled16.dir/HomeTheater.cpp.o	3e0fbee158e6b401
+0	822	1714986219793805287	CMakeFiles/untitled16.dir/main.cpp.o	357bd8ac23da255c
+3	831	1714986219803012588	CMakeFiles/untitled16.dir/CdPlaya.cpp.o	2f76c14c159f8cda
+2	832	1714986219805162539	CMakeFiles/untitled16.dir/PopCorn.cpp.o	77aa2acebe659261
+3	835	1714986219808896193	CMakeFiles/untitled16.dir/Amplifier.cpp.o	7399c9e4e1655442
+3	709	1714986303103794651	CMakeFiles/untitled16.dir/Amplifier.cpp.o	7399c9e4e1655442
+14	551	1714986498917767647	CMakeFiles/untitled16.dir/HomeTheater.cpp.o	3e0fbee158e6b401
+12	708	1714986499076467752	CMakeFiles/untitled16.dir/Amplifier.cpp.o	7399c9e4e1655442
+3	710	1714986524602214017	CMakeFiles/untitled16.dir/HomeTheater.cpp.o	3e0fbee158e6b401
+2	968	1714986524862695783	CMakeFiles/untitled16.dir/Amplifier.cpp.o	7399c9e4e1655442
+2	969	1714986524862745949	CMakeFiles/untitled16.dir/CdPlaya.cpp.o	2f76c14c159f8cda
